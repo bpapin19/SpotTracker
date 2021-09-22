@@ -4,7 +4,7 @@ Compatible with mobile devices and most web browsers, SpotTracker allows users t
 
 This application uses a React UI and Express/Node.js on the backend. Stores uploaded spot data in MongoDb cluster and images in an AWS S3 Bucket. User authentication is done using Firebase. It consists of a home page, add spot page, find spot page, and profile page, all traversable through the application's navigation bar at the top of the window.
 
-Upon uploading a spot or park, a marker is added in the corresponding location and shows spot info such as name, location, type, description, date uploaded, username, and an image of the spot. when clicking the marker. Complete with a full profile section, the user can update their username, email address, and profile picture. It also features a search bar, where the user can enter a location and explore spots in any city. 
+Upon uploading a spot or park, a marker is added in the corresponding location and shows spot info such as name, location, type, description, date uploaded, username, and an image of the spot when clicking the marker. Complete with a full profile section, the user can update their username, email address, and profile picture. It also features a search bar, where the user can enter a location and explore spots in any city. 
 
 The map is programmed using Google Maps's API, as well as Places Autocomplete API to generate suggested locations. 
 
