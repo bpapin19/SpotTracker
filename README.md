@@ -8,7 +8,7 @@ Upon uploading a spot or park, a marker is added in the corresponding location a
 
 The map is programmed using Google Maps's API, as well as Places Autocomplete API to generate suggested locations. 
 
-Live demo avaliable [here](https://skate-spot-tracker.herokuapp.com/)
+**Live demo avaliable [here](https://skate-spot-tracker.herokuapp.com/)**
 
 # Find Spots Page:
 <img width="1194" alt="Screen Shot 2021-09-15 at 2 34 43 PM" src="https://user-images.githubusercontent.com/42751309/133512865-fabff37d-d5fa-49c7-a97b-fb1849a109f6.png">
